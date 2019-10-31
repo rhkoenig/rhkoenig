@@ -1,0 +1,12 @@
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 600px;
+  max-height: 600px;
+}
